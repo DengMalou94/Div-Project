@@ -1,0 +1,23 @@
+.content{
+    
+    background-color:rgb(253, 252, 215);
+    padding: 15px;
+    margin: 10px;
+    border:solid 2px; color: rgba(4, 3, 1, 0.999);
+}
+
+.img1{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.img2{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.img3{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
