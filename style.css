@@ -1,9 +1,9 @@
 .content{
     
-    background-color:rgb(253, 252, 215);
+    background-color:rgba(241, 225, 195, 0.972);
     padding: 15px;
     margin: 10px;
-    border:solid 2px; color: rgba(4, 3, 1, 0.999);
+    border:solid 2px; color: rgba(3, 43, 45, 0.999);
 }
 
 .img1{
