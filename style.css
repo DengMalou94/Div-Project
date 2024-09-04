@@ -1,23 +1,43 @@
 .content{
     
-    background-color:rgba(241, 225, 195, 0.972);
+    background-color:rgba(244, 240, 232, 0.972);
     padding: 15px;
     margin: 10px;
-    border:solid 2px; color: rgba(3, 43, 45, 0.999);
+    border:solid 2px; color: rgba(114, 77, 9, 0.999);
 }
 
 .img1{
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
     border-radius: 50%;
+    padding-top: 30px;
 }
 .img2{
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
     border-radius: 50%;
+    padding-top: 30px;
 }
 .img3{
-    height: 40px;
-    width: 40px;
+    height: 30px;
+    width: 30px;
     border-radius: 50%;
+    padding-top: 30px;
+}
+.logo{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+.flexbox{
+    display:flex;
+    padding: 1px;
+    justify-content:left;
+    align-items:flex-end;
+    flex-direction: row;
+}
+.items{
+    padding: 5px;
+    margin: 5px;
 }
